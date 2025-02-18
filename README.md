@@ -1,4 +1,5 @@
-# Linear Regression using Gradient Descent
+# Simple-Linear-Regression
+
 
 Overview
 
